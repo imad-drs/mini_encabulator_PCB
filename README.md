@@ -2,7 +2,7 @@
 
 A complete PCB design exercise demonstrating schematic capture, component selection, and board layout using KiCAD. This project implements a simple LED blinker with user-controllable blink rate.
 
-![PCB Layout](images/layout.png)
+![PCB Layout](images/Layout.png)
 *Final PCB layout with component placement and routing*
 
 ## 📋 Project Overview
